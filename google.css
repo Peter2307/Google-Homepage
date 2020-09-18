@@ -1,0 +1,48 @@
+nav
+{
+	margin-right: 50px; 
+	float: right;
+	width:150px
+	border:1px solid blue;
+	display: inline-block;
+}
+
+
+footer
+{
+position: absolute;
+bottom:80%;
+top: 400%
+}
+
+.Gmail
+{
+font-family: arial;
+text-decoration: none;	
+}
+
+.Images
+{
+font-family: arial;
+}
+
+
+
+.Connexion
+{
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+     background-color:#3383FF;
+     background-size: 30px/20px
+}
+
+
+#google
+{
+	position: absolute;
+	right:35%;
+	left:43%;
+	top: 30%;
+}
+
